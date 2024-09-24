@@ -1,4 +1,4 @@
-# SlidableImageViewPackage
+# SlidableImageView
 
 [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
 [![License](https://img.shields.io/cocoapods/l/SlidableImageViewPackage.svg?style=flat)](https://github.com/marvpaul/SlidableImageView/blob/master/LICENSE)

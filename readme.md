@@ -3,7 +3,13 @@
 [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
 [![License](https://img.shields.io/cocoapods/l/SlidableImageViewPackage.svg?style=flat)](https://github.com/marvpaul/SlidableImageView/blob/master/LICENSE)
 
-A SwiftUI component that allows users to slide between two images using a draggable slider. This package is designed to be easy to integrate into SwiftUI projects and offers full customization options for the slider’s appearance.
+A SwiftUI component that allows users to slide between two images using a draggable slider. This package is designed to be easy to integrate into SwiftUI projects.
+
+## Sample usage
+
+```
+ImageSlider(image1: Image("boat_grain"), image2: Image("boat"))
+```
 
 ## Features
 

@@ -61,7 +61,6 @@ struct SlidableImageView: View {
                     }
                     .frame(height: 250)
                 }
-                .padding()
             }
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
